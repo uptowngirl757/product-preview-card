@@ -14,7 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -32,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Ahttps://github.com/uptowngirl757/product-preview-card](https://github.com/uptowngirl757/product-preview-card)
+- Solution URL: [https://github.com/uptowngirl757/product-preview-card](https://github.com/uptowngirl757/product-preview-card)
 - Live Site URL: [https://uptowngirl757.github.io/product-preview-card/](https://uptowngirl757.github.io/product-preview-card/)
 
 ## My process
